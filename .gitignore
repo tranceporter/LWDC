@@ -1,0 +1,9 @@
+*.dll
+*.pdb
+*.xml
+bin/LWDC.dll.config
+obj/Debug/AspNetIdentity2ExtendingUsersAndRoles.csproj.FileListAbsolute.txt
+*.Cache
+obj/Debug/AspNetIdentity2ExtendingUsersAndRoles.Migrations.InitialCreate.resources
+obj/Debug/LWDC.csproj.FileListAbsolute.txt
+*.resources
